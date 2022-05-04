@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC4E&height=300&section=header&text=SooJeong%20&fontSize=90)
+
 <h3 align="center">Hi there 👋 </h3>
 <div align="center">프론트개발린이 대학생 수정이라고 합니다✨</div>
 </br>
