@@ -2,6 +2,15 @@
 
 <h4>Hi there! I'm SOOJEONG who wants to become FE engineer 💎</h4>
 
+#### 🍊 MY INFO & EXPERIENCE
+```
+(2019.03 - ing) MyongJi Univ Department Infomation&Communication Engineering
+(2021.04 - 2021.06) CODE CLUB, Visiting SW Education Donation Group
+(2021.03 - 2021.12) LIKELION at MJU 9th Member
+(2022.03 - 2022.12) LIKELION at MJU 10th Manager
+```
+
+
 #### 💻 MY STACK
 
 <div align="center">
