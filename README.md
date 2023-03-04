@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h3>Hi there! I'm SOOJEONG who wants to become FE engineer 💎</h3>
+<h3>Hi there!</h3>
 
 #### 🍊 MY INFO & EXPERIENCE
 ```
