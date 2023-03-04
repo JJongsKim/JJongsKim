@@ -4,7 +4,7 @@
 
 #### 🍊 MY INFO & EXPERIENCE
 ```
-(2019.03 - ing) MyongJi Univ Department Infomation&Communication Engineering
+(2019.03 - ing) MyongJi Univ Department Information&Communication Engineering
 (2021.04 - 2021.06) CODE CLUB, Visiting SW Education Donation Group
 (2021.03 - 2021.12) LIKELION at MJU 9th Member
 (2022.03 - 2022.12) LIKELION at MJU 10th Manager
