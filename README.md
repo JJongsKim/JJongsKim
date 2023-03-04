@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC4E&height=300&section=header&text=SooJeong%20&fontSize=90)
-### 💻 MY STACK
+<h4>Hi there! I'm SOOJEONG who wants to become FE engineer 🍀</h4>
+
+#### 💻 MY STACK
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
-### 🍀 Collaboration & etc
+#### 🍀 Collaboration & etc
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
