@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4.svg?&style=for-the-badge&logo=Axios&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/Styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
   <br />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
