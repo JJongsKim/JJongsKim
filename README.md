@@ -1,8 +1,5 @@
-<!-- ### Hi there 👋 -->
-
-<h3>Hi there!</h3>
-
-#### 🍊 MY INFO & EXPERIENCE
+## 👩🏻‍💻 MY INFO & EXPERIENCE
+### 안녕하세요! 프론트엔드 개발자 김수정입니다.
 ```
 (2019.03 - ing) MyongJi Univ Department Information&Communication Engineering
 (2021.04 - 2021.06) CODE CLUB, Visiting SW Education Donation Group
@@ -11,32 +8,26 @@
 ```
 
 
-#### 💻 MY STACK
+## ✏️ MY STACK
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.Js-000000.svg?&style=for-the-badge&logo=Next.Js&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.Js&logoColor=white">
-  </br>
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/SCSS-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
-  <br />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">&nbsp;
 
-#### 🍀 Collaboration & etc
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4a154b.svg?&style=for-the-badge&logo=Slack&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  
-</div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Next.Js-000000.svg?&style=flat&logo=Next.Js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.Js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?&style=flat&logo=MySQL&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/StyledComponents-DB7093.svg?&style=flat&logo=styled-components&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/SCSS-cc6699.svg?&style=flat&logo=sass&logoColor=white">&nbsp;
+
+## 👥 Collaboration & etc
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Slack-4a154b.svg?&style=flat&logo=Slack&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">&nbsp;
 
 <!--
 **JJongsKim/JJongsKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
