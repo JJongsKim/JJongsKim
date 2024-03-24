@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">&nbsp;
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Next-000000.svg?&style=flat&logo=Next.Js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.Js&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.Js&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?&style=flat&logo=MySQL&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/styled components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/SCSS-cc6699.svg?&style=flat&logo=sass&logoColor=white">&nbsp;
