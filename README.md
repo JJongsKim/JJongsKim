@@ -1,10 +1,10 @@
 ## 👩🏻‍💻 MY INFO & EXPERIENCE
 ### 안녕하세요! 프론트엔드 개발자 김수정입니다.
 ```
-(2019.03 - 2024.02) MyongJi Univ Department Information&Communication Engineering
-(2021.04 - 2021.06) CODE CLUB, Visiting SW Education Donation Group
-(2021.03 - 2021.12) LIKELION at MJU 9th Member
-(2022.03 - 2022.12) LIKELION at MJU 10th Manager
+(2019.03 - 2024.02) 명지대학교 정보통신공학과
+(2021.04 - 2021.06) 코드클럽 SW 교육기부단 - 코딩궁딩 팀(과학기술정보통신부 장관상 수상)
+(2021.03 - 2021.12) 멋쟁이사자처럼 9기 회원
+(2022.03 - 2022.12) 멋쟁이사자처럼 10기 운영진
 ```
 
 
